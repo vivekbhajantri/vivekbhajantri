@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vivek Bajantri
 
-### 🚀 DevOps Engineer • Java Backend Developer • Cloud Enthusiast
+### 🚀 DevOps Engineer interns • Java Backend Developer interns • Cloud Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Learning+DevOps+Every+Day;AWS+%7C+Docker+%7C+Jenkins+%7C+Terraform;Java+Spring+Boot+Developer;Always+Learning+Something+New+🚀" />
 
